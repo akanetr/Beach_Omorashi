@@ -1,0 +1,5 @@
+[tb_clear_images][mask time=200][bg  time="1"  storage="bg_base.png"  _tb_parts_type="bg"  ]
+[tb_replay_image_button  graphic="none"  storage=""  target=""  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="300"  height="200"  x="100"  y="100"  _tb_parts_type="replay_image_button"  ]
+[button  graphic="none"  storage="menu.ks"  target=""  time="1"  width="300"  height="200"  x="476"  y="268"  _tb_parts_type="button"  ]
+[mask_off time=200] 
+[s] 

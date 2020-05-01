@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/black_back.png"  ]
+[preload  storage="./data/bgimage/131877275613213216144_BG05a_1280.jpg"  ]
+[preload  storage="./data/bgimage/4_suna_gaman_1.png"  ]
+[preload  storage="./data/bgimage/5_suna_omorashi_1.png"  ]
+[preload  storage="./data/bgimage/5_suna_omorashi_3.png"  ]
+[preload  storage="./data/bgimage/5_suna_omorashi_4.png"  ]
+[preload  storage="./data/bgimage/4_suna_gaman_2.png"  ]
+[return]
